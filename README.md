@@ -1,2 +1,2 @@
-# part-1
-WEDE5020 Part 1
+# part-2
+WEDE5020 Part 2
